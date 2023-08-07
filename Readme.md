@@ -1,11 +1,11 @@
 # Olá!
-### Tenho 31 anos, moro em Belo Horizonte/MG. Me tornei engenheiro de controle e automação pela PUC Minas em 2023, e atualmente curso pós-graduação na area de DevOps.
+### Me chamo Vitor, tenho 31 anos e moro em Belo Horizonte/MG. Me tornei engenheiro de controle e automação pela PUC Minas em 2023, e atualmente curso pós-graduação na area de DevOps.
 <a href="https://www.linkedin.com/in/vitor-medeiros-28967972">
     <p align="center">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="LinkedIn" style="vertical-align:top;">
-  </a>
-  </p>
-
+</a>
+    </p>
+    
 <p align="center">
   <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" width="1000" height="400">
 </p>
@@ -33,7 +33,6 @@
         </a>
     </p>
 
-</br>
 </br>
 
 <div display="inline-block">
