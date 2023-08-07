@@ -17,21 +17,21 @@
 
 <p align="center">
     <a href="https://kubernetes.io/">
-<code><img width="40px" src="https://avatars.githubusercontent.com/u/49082977?s=280&v=4" title = "Kubernetes"/></code>
-    </a>
+        <code><img width="40px" src="https://avatars.githubusercontent.com/u/49082977?s=280&v=4" title = "Kubernetes"/></code>
+        </a>
     <a href="https://www.docker.com/">
-<code><img width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title = "Docker"/></code>
-    </a>
+        <code><img width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title = "Docker"/></code>
+        </a>
     <a href="https://www.jenkins.io/">
-<code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" title = "Jenkins"/></code>
-     </a>
-     <a href="https://github.com/">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
-     </a>
-     <a href="https://about.gitlab.com/">
-<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title = "GitLab"/></code>
-     </a> 
-</p>
+        <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" title = "Jenkins"/></code>
+        </a>
+    <a href="https://github.com/">
+        <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
+        </a>
+        <a href="https://about.gitlab.com/">
+        <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title = "GitLab"/></code>
+        </a>
+    </p>
 
 </br>
 </br>
