@@ -1,5 +1,8 @@
 # Olá!
 ### Tenho 31 anos, moro em Belo Horizonte/MG. Me tornei engenheiro de controle e automação pela PUC Minas em 2023, e atualmente estou cursando pós-graduação na area de DevOps.
+<a href="https://www.linkedin.com/in/vitor-medeiros-28967972">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
 
 <p align="center">
   <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" width="1000" height="400">
@@ -22,5 +25,5 @@
  <p align="left"> 🛠️ Trabalho no laboratório da Engenharia Elétrica da <a href="https://www.pucminas.br/">PUC Minas</a>;</p>
  <p align="left"> 🤖 Sempre me interessei por lógica e matemática, por isso acabei me formando em engenharia;</p>
  <p align="left"> 🐕 Moro com uma cachorrinha linda, que sempre me acorda com varias lambidas e sorriso no rosto 😊</p>
- <p align="left"> 🔗 Compartilho minhas experiências de trabalho e escolar pelo <a href="https://www.linkedin.com/in/vitor-medeiros-28967972/">LinkedIn</a>, caso tenha interesse;</p>
+ <p align="left"> 🔗 Compartilho minhas experiências de trabalho e escolar pelo <a href="https://www.linkedin.com/in/vitor-medeiros-28967972">LinkedIn</a>, caso tenha interesse;</p>
 </div>
