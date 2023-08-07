@@ -1,5 +1,5 @@
 # Olá!
-### Tenho 31 anos, moro em Belo Horizonte/MG. Me tornei engenheiro de controle e automação pela PUC Minas em 2023, e atualmente estou cursando pós-graduação na area de DevOps.
+### Tenho 31 anos, moro em Belo Horizonte/MG. Me tornei engenheiro de controle e automação pela PUC Minas em 2023, e atualmente curso pós-graduação na area de DevOps.
 <a href="https://www.linkedin.com/in/vitor-medeiros-28967972">
     <p align="center">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="LinkedIn" style="vertical-align:top;">
@@ -13,12 +13,25 @@
 </br>
 </br>
 
-### 🖥️ Estou aprendendo muito sobre:
-<code><img width="40px" src="https://avatars.githubusercontent.com/u/49082977?s=280&v=4" title = "K8s"/></code>
+### 🖥️ Algumas ferramentas que estou aprendendo sobre:
+
+<p align="center">
+    <a href="https://kubernetes.io/">
+<code><img width="40px" src="https://avatars.githubusercontent.com/u/49082977?s=280&v=4" title = "Kubernetes"/></code>
+    </a>
+    <a href="https://www.docker.com/">
 <code><img width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title = "Docker"/></code>
+    </a>
+    <a href="https://www.jenkins.io/">
 <code><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" title = "Jenkins"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+     </a>
+     <a href="https://github.com/">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
+     </a>
+     <a href="https://about.gitlab.com/">
 <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title = "GitLab"/></code>
+     </a> 
+</p>
 
 </br>
 </br>
