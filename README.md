@@ -8,13 +8,6 @@ Me chamo Vitor, tenho 31 anos e moro em Belo Horizonte/MG. Me tornei engenheiro 
 </a>
     </p>
     
-<p align="center">
-  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif" width="1000" height="400">
-</p>
-
-</br>
-</br>
-
 ### 🖥️ Algumas ferramentas que estou aprendendo sobre:
 
 <p align="center">
