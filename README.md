@@ -1,6 +1,6 @@
 <h1 align="center">Olá! </h1>
 
-Me chamo Vitor, tenho 31 anos e moro em Belo Horizonte/MG. Me tornei engenheiro de controle e automação pela PUC Minas em 2023, e atualmente curso pós-graduação na area de DevOps.
+Me chamo Vitor, tenho 31 anos e moro em Belo Horizonte/MG. Me tornei engenheiro de controle e automação pela PUC Minas em 2023, e atualmente curso pós-graduação na area de Engenharia de Software.
 
 <a href="https://www.linkedin.com/in/vitor-medeiros-28967972">
     <p align="center">
