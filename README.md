@@ -27,7 +27,7 @@ Me chamo Vitor, tenho 32 anos e moro em Belo Horizonte/MG. Me tornei engenheiro 
 </br>
 
 <div display="inline-block">
- <p align="left"> 🛠️ Trabalho no laboratório da Engenharia Elétrica da <a href="https://www.pucminas.br/">PUC Minas</a>;</p>
+ <p align="left"> 🛠️ Trabalho no GREEN, Grupo de estudos em energia da <a href="https://www.pucminas.br/">PUC Minas</a>;</p>
  <p align="left"> 🤖 Sempre me interessei por lógica e matemática, por isso acabei me formando em engenharia;</p>
  <p align="left"> 🐕 Moro com uma cachorrinha linda, que sempre me acorda com varias lambidas e sorriso no rosto 😊</p>
  <p align="left"> 🔗 Compartilho minhas experiências de trabalho e escolar pelo <a href="https://www.linkedin.com/in/vitor-medeiros-28967972">LinkedIn</a>, caso tenha interesse;</p>
